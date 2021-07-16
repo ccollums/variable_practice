@@ -10,3 +10,8 @@ var horsesAreSmall = false
 var dogNames = ['Oats', 'Bacon', "Lemon"]
 var tigerNames = ['Otis', 'Stripes', 'Ninja']
 var horseNames = ['Roy', 'Patriot', 'Katie']
+var myDog = {
+  type: 'Goldendoodle',
+  age: '3',
+  name: "Oats"
+}
